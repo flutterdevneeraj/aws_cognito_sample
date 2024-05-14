@@ -64,4 +64,6 @@ class LoginController extends GetxController{
       }
     }
   }
+
+  void login() {}
 }
